@@ -1,4 +1,9 @@
+# Requirements
+
 streamlit
 pandas
 numpy
 scikit-learn
+
+To insatll above libraries:use pip install library_name
+To run :streamlit run app.py
